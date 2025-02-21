@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "@hapi/hapi": "^21.3.12",
+    "express": "^4.21.2",
+    "fastify": "^5.2.1",
+    "hapi": "^18.1.0",
+    "koa": "^2.15.4"
   }
 }
